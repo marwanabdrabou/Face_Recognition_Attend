@@ -11,10 +11,10 @@ The objective of this project  to provide a valuable attendance service for empl
 
 ## Tech Used
 --------------------------
-Build With 
+Build With :
 * Python 3.7
 
-Module Used -
+Module Used :
 
 All The Module are Latest Version.
 * OpenCV 
