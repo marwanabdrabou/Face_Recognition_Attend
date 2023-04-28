@@ -1,4 +1,4 @@
-# Face Recognation Attendance 
+# Face Recognition Attendance 
 
 ## General info
 The objective of this project  to provide a valuable attendance service for employees. Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology
